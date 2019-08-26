@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "DeclAutreTaxe",
+    "packageName": "com.brain.fisc",
+    "packageFolder": "com/brain/fisc",
+    "serverPort": 8082,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "NWY4Mjc4ZGJjZjJlNjYxNTMwNDNjYjRkZWYzOGEwNWNlYWNmZjIzZjg5NThkMTQwMjU1NmIyZDE1ZjNiMzMyMThiYzdlNWVkOTFlNDgxMGYzNTRlN2FiMzYwNWE3NjRhYTNkNjM3ZmZjNGRjNzhhODkwNmQ3NTM5ZTgxNWMyZjQ=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "sandalothier",
+  "repository-name": "DeclAutreTaxe"
+}
